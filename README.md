@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Timothe Bertrand 👋
 
-<!--
-**Fingarde/Fingarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+I'm a Rust enthusiast who loves exploring the world of programming and technology. My primary focus areas include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦀 **Rust**: Passionate about Rust, its Ecosystem and its capabilities.
+- 🛠️ **Development & Architecture**: Designing robust and scalable systems.
+- ⚙️ **DevOps**: Implementing best practices for efficient development and operations.
+- 🔧 **Embedded Systems & IoT**: Developing cutting-edge solutions for connected devices.
+
+## 🛠️ Tools & Technologies
+
+- **OS**: Fedora, Arch 🐧
+- **IDEs**: JetBrains 🖥️, VSCode 💻
+- **Languages**: Rust, and more...
+- **Areas of Expertise**: Embedded Systems, IoT, DevOps, System Architecture
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/timothé-bertrand-🦀-1a178b200/) 🌐
+- [Twitter]([https://twitter.com/your-profile](https://x.com/Fingardee) 🐦
+- [Blog](https://blog.fingarde.fr) - **WIP** ✍️
+---
+
+Bisous
