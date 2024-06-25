@@ -19,7 +19,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/timothé-bertrand-🦀-1a178b200/) 🌐
-- [Twitter](https://twitter.com/your-profile](https://x.com/Fingardee) 🐦
+- [Twitter](https://x.com/Fingardee) 🐦
 - [Blog](https://blog.fingarde.fr) - **WIP** ✍️
 ---
 
