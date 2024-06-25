@@ -17,6 +17,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 - **Areas of Expertise**: Embedded Systems, IoT, DevOps, System Architecture
 
 ## 🔗 Connect with Me
+I'm documenting my journey of writing a framework on my blog. Follow along to see the progress, challenges, and insights I gain along the way:
 
 - [LinkedIn](https://www.linkedin.com/in/timothé-bertrand-🦀-1a178b200/) 🌐
 - [Twitter](https://x.com/Fingardee) 🐦
