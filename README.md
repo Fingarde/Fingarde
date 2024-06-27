@@ -24,8 +24,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="windowsxp.png" width="48"/>
 
 ### Programming Languages
-<img src="c.png" width="48"/>
-<img src="c++.png" width="48"/>
+<img src="c.png" width="48"/> <img src="c++.png" width="48"/>
 <img src="css.png" width="48"/>
 <img src="html.png" width="48"/>
 <img src="java.png" width="48"/>
@@ -37,9 +36,8 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="ts.png" width="48"/>
 
 ### Frameworks and Libraries
-<img src="actix.png" width="48"/>
-<img src="alembic.png" width="48"/>
-<img src="ansible.png" width="48"/>a
+<img src="actix.png" width="48"/> <img src="alembic.png" width="48"/>
+<img src="ansible.png" width="48"/>
 <img src="arduino.png" width="48"/>
 <img src="axum.png" width="48"/>
 <img src="ble.png" width="48"/>
@@ -76,8 +74,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="webpack.png" width="48"/>
 
 ### IDEs and Editors
-<img src="atom.png" width="48"/>
-<img src="clion.png" width="48"/>
+<img src="atom.png" width="48"/> <img src="clion.png" width="48"/>
 <img src="codeblock.png" width="48"/>
 <img src="eclipse.png" width="48"/>
 <img src="idea.png" width="48"/>
@@ -91,23 +88,20 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="webstorm.png" width="48"/>
 
 ### DevOps and CI/CD
-<img src="git.png" width="48"/>
-<img src="github.png" width="48"/>
+<img src="git.png" width="48"/> <img src="github.png" width="48"/>
 <img src="gitlab-ci.png" width="48"/>
 <img src="gitlab.png" width="48"/>
 <img src="jenkins.png" width="48"/>
 <img src="copilot.png" width="48"/>
 
 ### Databases
-<img src="ceph.png" width="48"/>
-<img src="mariadb.png" width="48"/>
+<img src="ceph.png" width="48"/> <img src="mariadb.png" width="48"/>
 <img src="mongodb.png" width="48"/>
 <img src="postgres.png" width="48"/>
 <img src="prisma.png" width="48"/>
 
 ### Virtualization and Containerization
-<img src="hyperv.png" width="48"/>
-<img src="lxc.png" width="48"/>
+<img src="hyperv.png" width="48"/> <img src="lxc.png" width="48"/>
 <img src="qemu.png" width="48"/>
 <img src="Virtualbox_logo.png" width="48"/>
 <img src="docker.png" width="48"/>
@@ -118,8 +112,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="wsl.png" width="48"/>
 
 ### IoT and Embedded Systems
-<img src="emqx.png" width="48"/>
-<img src="espressif.png" width="48"/>
+<img src="emqx.png" width="48"/> <img src="espressif.png" width="48"/>
 <img src="lora.png" width="48"/>
 <img src="mlapide.png" width="48"/>
 <img src="microchip.png" width="48"/>
@@ -128,8 +121,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 <img src="stm.png" width="48"/>
 
 ### Miscellaneous
-<img src="bash.png" width="48"/>
-<img src="chatgpt.png" width="48"/>
+<img src="bash.png" width="48"/> <img src="chatgpt.png" width="48"/>
 <img src="insomnia.png" width="48"/>
 <img src="ldap.png" width="48"/>
 <img src="oidc.png" width="48"/>
