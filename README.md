@@ -12,8 +12,7 @@ I'm a Rust enthusiast who loves exploring the world of programming and technolog
 ## 🛠️ Tools & Technologies
 
 ### Operating Systems (OS)
-<img src="android.png" width="48"/>
-<img src="arch.png" width="48"/>
+<img src="android.png" width="48"/> <img src="arch.png" width="48"/>
 <img src="debian.png" width="48"/>
 <img src="fedora.png" width="48"/>
 <img src="ubuntu.png" width="48"/>
